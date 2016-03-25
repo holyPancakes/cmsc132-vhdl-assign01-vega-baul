@@ -1,0 +1,4 @@
+*.o
+*.vcd
+*.cf
+t_4l_vega_maru_tb
